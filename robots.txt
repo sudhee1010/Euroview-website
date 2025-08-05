@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://sudhee1010.github.io/parallax-website/sitemap.xml
